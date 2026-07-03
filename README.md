@@ -44,6 +44,7 @@ Quantity
 Unit Price
 Total Price
 Items in Cart
+
 2. Revenue by Product
 
 Analyzed
@@ -56,6 +57,7 @@ Key Finding
 
 Chairs generated the highest revenue.
 Phones generated the lowest revenue.
+
 3. Order Status Distribution
 
 Evaluated
@@ -66,6 +68,7 @@ Percentage of Total Orders
 Key Finding
 
 Cancelled and Returned orders accounted for more than 41% of all orders.
+
 4. Referral Source Performance
 
 Compared
